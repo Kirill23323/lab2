@@ -1,0 +1,13 @@
+﻿  Functions.c
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Functions.c(115,23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Functions.c(126,29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Functions.c(138,30): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Functions.c(140,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Functions.c(150,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Functions.c(145,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Functions.c(165,24): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Source 2.c
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Source 2.c(18,22): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Кирилл\Desktop\Lab work 2\Program 2\Source 2.c(160,15): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  Program 2.vcxproj -> C:\Users\Кирилл\Desktop\Lab work 2\Lab2\Debug\Program 2.exe
